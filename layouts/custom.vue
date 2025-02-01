@@ -2,10 +2,10 @@
 	<Html>
 			<!-- Head -->
 			<Head>
-					<Title>NEBO: Yamaha NMAX Neo Turbo Community</Title>
-					<Meta name="description" :content="`NEBO adalah komunitas pecinta Yamaha NMAX yang menggabungkan semangat berkendara dengan modifikasi unik untuk menciptakan pengalaman berkendara yang lebih dinamis. Dengan fokus pada performa, gaya, dan kebersamaan, NEBO adalah tempat berkumpulnya para penggemar NMAX yang telah memodifikasi motornya menjadi lebih bertenaga dengan konsep Neo Turbo`" />
-					<!-- <Link rel="preload" href="/test.txt" as="script" /> -->
-					<!-- <Style type="text/css" :children="styleString" /> -->
+				<Title>Mazda Solution (MS) - Komunitas Pengguna Mazda Terbaik</Title>
+				<Meta name="description" :content="`Bergabunglah dengan Mazda Solution (MS), komunitas penggemar dan pengguna Mazda yang penuh semangat. Dapatkan pengalaman berkendara yang seru, berbagi tips, dan ikuti kegiatan menarik bersama para pecinta Mazda lainnya.`" />
+				<!-- <Link rel="preload" href="/test.txt" as="script" /> -->
+				<!-- <Style type="text/css" :children="styleString" /> -->
 			</Head>
 
 			<!-- Header -->

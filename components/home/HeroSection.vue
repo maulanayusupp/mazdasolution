@@ -30,7 +30,7 @@
                 v-for="(item, index) in banners"
                 :key="index">
                 <div
-                    class="relative shadow-xl sm:rounded-2xl sm:overflow-hidden h-[300px] md:h-[550px]"
+                    class="relative shadow-xl sm:rounded-2xl sm:overflow-hidden h-[300px] md:h-[670px]"
                     @click="clickable(item)">
                     <div class="absolute inset-0">
                         <img class="h-full w-full object-cover" :src="item.media_path" :alt="item.title" />
@@ -110,27 +110,6 @@ export default {
 				},
 				{
 					media_path: '/assets/images/sliders/slider_4.jpeg',
-					title: '',
-					description: '',
-					cta_url: '',
-					cta_label: '',
-				},
-				{
-					media_path: '/assets/images/sliders/slider_5.jpeg',
-					title: '',
-					description: '',
-					cta_url: '',
-					cta_label: '',
-				},
-				{
-					media_path: '/assets/images/sliders/slider_6.jpeg',
-					title: '',
-					description: '',
-					cta_url: '',
-					cta_label: '',
-				},
-				{
-					media_path: '/assets/images/sliders/slider_7.jpeg',
 					title: '',
 					description: '',
 					cta_url: '',
