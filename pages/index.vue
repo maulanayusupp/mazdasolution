@@ -27,7 +27,7 @@
 						<div class="relative w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
 							<h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Mazda Solution (MS)</h1>
 							<p class="mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-								Komunitas ini tidak hanya berbagi tentang tips modifikasi dan peningkatan performa, tetapi juga aktif mengadakan kegiatan touring, kopdar, dan berbagai event seru lainnya. Bersama Mazda Solution (MS), setiap anggota bisa merasakan sensasi berkendara yang maksimal, sembari memperkuat tali persaudaraan sesama pemilik Mazda.
+								Komunitas ini tidak hanya berbagi tentang tips modifikasi, peningkatan performa, serta pemeliharaan kendaraan, tetapi juga aktif mengadakan kegiatan touring, kopdar, dan berbagai event seru lainnya. Bersama Mazda Solution (MS), setiap anggota bisa merasakan sensasi berkendara yang maksimal, sembari memperkuat tali persaudaraan sesama pemilik Mazda.
 							</p>
 
 							<div class="mt-4 mb-6 font-bold">
